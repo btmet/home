@@ -7,5 +7,3 @@
 [btmet.org](https://btmet.org)  (2020-01-14，国内可用)
 
 [btmet.com](https://btmet.com)  (永久地址，dns污染)
-
-[btmet.me](https://btmet.me)    (dns污染)
