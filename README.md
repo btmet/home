@@ -2,6 +2,6 @@
 
 > 打开【设置】按钮，解锁更多功能。
 
-[btmetv.xyz](https://www.btmetv.xyz)  (2020-10-16)
+[btmet0.xyz](https://www.btmet0.xyz)  (2020-11-13)
 
 [btmet.com](https://btmet.com)  (永久地址，dns污染)
